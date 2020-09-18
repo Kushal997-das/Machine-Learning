@@ -1,6 +1,6 @@
 <img align="right" alt="GIF"  width="353px" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-small.gif" /><br>
 <a href="https://github.com/Kushal997-das/Machine-Learning/tree/master/Introduction">Day1</a><br>
-<a href="https://github.com/Kushal997-das/Machine-Learning/blob/master/Introduction/Day1%20-Introduction%20to%20ML.ipynb">&nbsp Introduction to ML</a><br><br>
+<a href="https://github.com/Kushal997-das/Machine-Learning/blob/master/Introduction/Day1%20-Introduction%20to%20ML.ipynb">Introduction to ML</a><br><br>
 <a href="https://github.com/Kushal997-das/Machine-Learning/tree/master/Day2.Data%20and%20variable">Day2</a><br>
 <a href="https://github.com/Kushal997-das/Machine-Learning/blob/master/Day2.Data%20and%20variable/Data%20and%20variable.ipynb">Data and Variables</h3></a><br><br>
 <p align=left">
