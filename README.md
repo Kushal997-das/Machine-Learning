@@ -3,7 +3,7 @@
 
 - [Day1](Introduction)
   - [Introduction to ML](https://github.com/Kushal997-das/Machine-Learning/blob/master/Introduction/Day1%20-Introduction%20to%20ML.ipynb)
-- [Day2](Day2.Data and variable)  
+- [Day2](https://github.com/Kushal997-das/Machine-Learning/tree/master/Day2.Data%20and%20variable)  
   - [Day2.Data and variable](https://github.com/Kushal997-das/Machine-Learning/blob/master/Day2.Data%20and%20variable/Data%20and%20variable.ipynb)
 
 
