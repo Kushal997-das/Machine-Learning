@@ -6,9 +6,25 @@
 - [Day2](https://github.com/Kushal997-das/Machine-Learning/tree/master/Day2.Data%20and%20variable)  
   - [Day2.Data and variable](https://github.com/Kushal997-das/Machine-Learning/blob/master/Day2.Data%20and%20variable/Data%20and%20variable.ipynb)
 
+<br><br>
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
 
-<p align=left">
-<a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img align="center" src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" alt="kushal's linkedin" width="32px" height="31.5px"/></a> 
-<a href="https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber" target="blank"><img align="center" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" alt="kushal das" height="32" width="32" /></a>
-<a href="https://github.com/Kushal997-das" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" alt="github" height="30" width="30" /></a>  
-</p>
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" />][Github]
+<br />
+<hr />
+
+[youtube]: https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber
+[gmail]: mailto:daskushal980@gmail.com
+[linkedin]: https://www.linkedin.com/in/kushal-das-7337421a9/
+[github]: https://github.com/Kushal997-das/
+
+
+
+  
+If you have any Queries or Suggestions, feel free to reach out to me.
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
