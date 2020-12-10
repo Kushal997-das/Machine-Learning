@@ -1,7 +1,8 @@
 [![](https://img.shields.io/badge/Author-KushalDas-green.svg)](https://github.com/Kushal997-das)<br>
 [![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcometothisrepo-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das)
-[![](https://img.shields.io/github/languages/top/Kushal997-das/Machine-Learning.svg?style=plastic)](https://github.com/Kushal997-das/Machine-Learning)
+
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
+[![](https://img.shields.io/github/languages/top/Kushal997-das/Machine-Learning.svg?style=plastic)](https://github.com/Kushal997-das/Machine-Learning)
 ![](https://img.shields.io/badge/Status-Inprogrees-green.svg)
 
 
